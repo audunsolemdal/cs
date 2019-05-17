@@ -17,6 +17,7 @@ namespace csproj2
         Console.WriteLine(s.Pop());
         Console.WriteLine(s.Pop());
         Console.WriteLine(s.Pop());
+        Console.WriteLine("Test");
         }
     }
 }
