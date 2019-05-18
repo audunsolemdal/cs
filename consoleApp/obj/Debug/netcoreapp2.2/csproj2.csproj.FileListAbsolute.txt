@@ -1,0 +1,15 @@
+C:\Users\AudunLSolemdal\Documents\csproj2\obj\Debug\netcoreapp2.2\csproj2.csprojAssemblyReference.cache
+C:\Users\AudunLSolemdal\Documents\csproj2\obj\Debug\netcoreapp2.2\csproj2.csproj.CoreCompileInputs.cache
+C:\Users\AudunLSolemdal\Documents\csproj2\obj\Debug\netcoreapp2.2\csproj2.AssemblyInfoInputs.cache
+C:\Users\AudunLSolemdal\Documents\csproj2\obj\Debug\netcoreapp2.2\csproj2.AssemblyInfo.cs
+C:\Users\AudunLSolemdal\Documents\csproj2\consoleApp\obj\Debug\netcoreapp2.2\csproj2.csprojAssemblyReference.cache
+C:\Users\AudunLSolemdal\Documents\csproj2\consoleApp\obj\Debug\netcoreapp2.2\csproj2.csproj.CoreCompileInputs.cache
+C:\Users\AudunLSolemdal\Documents\csproj2\consoleApp\obj\Debug\netcoreapp2.2\csproj2.AssemblyInfoInputs.cache
+C:\Users\AudunLSolemdal\Documents\csproj2\consoleApp\obj\Debug\netcoreapp2.2\csproj2.AssemblyInfo.cs
+C:\Users\AudunLSolemdal\Documents\csproj2\consoleApp\bin\Debug\netcoreapp2.2\csproj2.deps.json
+C:\Users\AudunLSolemdal\Documents\csproj2\consoleApp\bin\Debug\netcoreapp2.2\csproj2.runtimeconfig.json
+C:\Users\AudunLSolemdal\Documents\csproj2\consoleApp\bin\Debug\netcoreapp2.2\csproj2.runtimeconfig.dev.json
+C:\Users\AudunLSolemdal\Documents\csproj2\consoleApp\bin\Debug\netcoreapp2.2\csproj2.dll
+C:\Users\AudunLSolemdal\Documents\csproj2\consoleApp\bin\Debug\netcoreapp2.2\csproj2.pdb
+C:\Users\AudunLSolemdal\Documents\csproj2\consoleApp\obj\Debug\netcoreapp2.2\csproj2.dll
+C:\Users\AudunLSolemdal\Documents\csproj2\consoleApp\obj\Debug\netcoreapp2.2\csproj2.pdb
